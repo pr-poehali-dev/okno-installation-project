@@ -10,7 +10,7 @@ const Index = () => {
         <div className="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
           <div className="flex items-center space-x-2">
             <Icon name="Home" size={24} className="text-blue-600" />
-            <h1 className="text-xl font-bold text-gray-900">ОкнаПРО</h1>
+            <h1 className="text-xl font-bold text-gray-900">Тверь-комплект</h1>
           </div>
           <nav className="hidden md:flex space-x-6">
             <a href="#services" className="text-gray-600 hover:text-blue-600 transition-colors">Услуги</a>
@@ -185,7 +185,7 @@ const Index = () => {
             <div>
               <div className="flex items-center space-x-2 mb-4">
                 <Icon name="Home" size={24} className="text-blue-400" />
-                <h3 className="text-xl font-bold">ОкнаПРО</h3>
+                <h3 className="text-xl font-bold">Тверь-комплект</h3>
               </div>
               <p className="text-gray-400">
                 Профессиональная установка окон ПВХ с гарантией качества
@@ -211,11 +211,11 @@ const Index = () => {
                 </p>
                 <p className="flex items-center">
                   <Icon name="Mail" size={16} className="mr-2" />
-                  info@oknapro.ru
+                  info@tver-komplekt.ru
                 </p>
                 <p className="flex items-center">
                   <Icon name="MapPin" size={16} className="mr-2" />
-                  Москва, ул. Примерная, д. 123
+                  г. Тверь, ул. Советская, д. 45
                 </p>
               </div>
             </div>
@@ -231,7 +231,7 @@ const Index = () => {
           </div>
           
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2024 ОкнаПРО. Все права защищены.</p>
+            <p>&copy; 2024 ООО "Тверь-комплект". Все права защищены.</p>
           </div>
         </div>
       </footer>
